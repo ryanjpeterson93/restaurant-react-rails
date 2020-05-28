@@ -1,24 +1,16 @@
-# README
+# Rails/React API - Restaurant App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Assignment given as part of the DevPoint Labs Full Stack Web Development Course
 
-Things you may want to cover:
+#### Week 6
 
-* Ruby version
 
-* System dependencies
+Main Objectives:
 
-* Configuration
+-Follow the lecture from today to set up a Rails app with a React front end.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-Your restaurant should have menus and menu items
+  -Think multiple menus( lunch, dinner )
+  -And each menu has multiple items (look back to rails model lecture for a refresh on        model associations)
+  
+-Implement all CRUD actions
